@@ -3,14 +3,14 @@
     flex-direction: row;
    align-items: center;
 }
-/*a:hover{
+a:hover{
    color: grey; 
 }
 a:visited{
     color: white;
     font-family: Calibri;
     border: 0px;
-}*/
+}
 
 input[type='button']{
     padding: 10px 10px;
@@ -20,7 +20,7 @@ input[type='button']{
     font-weight: bold;
     border: 0px;
     border-radius: 15px;
-   
+   /* flex-grow: 15;*/
 }
 
 
